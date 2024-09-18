@@ -31,8 +31,11 @@ Karavali's contribution will involve:
 
 ### Timeline
 Phase 1: Research and design the matrix multiplication algorithm.
+
 Phase 2: Initial implementation of the core algorithm.
+
 Phase 3: Testing, optimization, and performance benchmarking.
+
 Phase 4: Final review and integration.
 
 ### Future Updates
